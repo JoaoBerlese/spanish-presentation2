@@ -26,6 +26,7 @@
 | É a **sede de governo mais alta do mundo** (a "capital" mais alta, com a ressalva de Sucre). | Wikipedia (es); Biblioteca Virtual Defensa (es) | ✅ |
 | **El Alto**, a cidade vizinha lá em cima: aeroporto a **4.058 m** ("más de 4.000 m"). | Wikipedia (es) "La Paz" | ✅ |
 | **Illimani**, a montanha-símbolo da cidade: ~**6.400 m** (fontes: 6.438 / 6.462 m). | Wikipedia (es) "La Paz" | ⚠️ → "más de 6.400 m" |
+| Comparação: **Brasília** fica a ~1.170 m ("unos 1.200" na nota). | Wikipedia (pt) "Brasília" | ✅ |
 | **Soroche** = mal de altura (dor de cabeça, falta de ar). Remédio tradicional: **mate de coca**. | Conhecimento geral; Wikipedia "Mal de altura" | ✅ |
 
 ## 4 · Futebol na altura
@@ -44,6 +45,7 @@
 | Extensão: **~30–33 km**. | Wikipedia (en) 30,6 km; Doppelmayr ~33 km | ⚠️ → "**más de 30 km**" |
 | **A maior/mais longa rede de teleférico urbano do mundo**, e a mais alta. Funciona como **metrô** (espinha dorsal do transporte). | Wikipedia (en/es); Doppelmayr (fabricante) | ✅ |
 | Fabricante: Doppelmayr (Áustria). | Wikipedia (en) | ✅ |
+| La Paz ↔ El Alto: desnível de ~400 m, vencido pelo teleférico. | Wikipedia (en) "Mi Teleférico" | ✅ |
 | Passageiros por dia: entre 300 mil e "mais de meio milhão". | Doppelmayr 2019; Billiken | ⚠️ não colocar número no slide |
 
 ## 6 · Las cebras
@@ -76,7 +78,7 @@
 | Fato | Fonte | Conf. |
 |---|---|---|
 | Começa em **24 de janeiro** e dura 2–3 semanas. | UNESCO ICH 01182 | ✅ |
-| Compram-se **miniaturas** (casas, carros, dinheiro, diplomas, passaportes…) para atrair a sorte; o **Ekeko** é o deus da abundância. As miniaturas são **benzidas** (por yatiris ou pela Igreja). | UNESCO ICH 01182; Publimetro | ✅ |
+| Compram-se **miniaturas** (casas, carros, dinheiro, diplomas…) para atrair a sorte; o **Ekeko** é o deus da abundância. As miniaturas são **benzidas** (por yatiris ou pela Igreja). | UNESCO ICH 01182; Publimetro | ✅ |
 | Patrimônio Imaterial da Humanidade (**UNESCO, 2017**): "Ritual journeys in La Paz during Alasita". | UNESCO ICH 01182 | ✅ |
 | "Alasita" vem do aimará "¡cómprame!". | Tradição popular (várias matérias) | 🗣️ |
 | Origem ligada ao cerco de La Paz por Túpac Katari (1781). | eju.tv; várias | 🗣️ não usar no slide |

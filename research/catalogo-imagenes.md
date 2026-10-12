@@ -19,7 +19,7 @@ Deck: **12 slides**, com **13 imagens usadas** e **5 de reserva**.
 | 3 dos capitales | `lapaz-palacio-quemado.jpg` | Palacio Quemado + catedral (Plaza Murillo) | prédio do governo em La Paz | Rodrigo Achá · CC BY 2.0 |
 | 3 dos capitales | `lapaz-sucre-recoleta.jpg` | Sucre: mirador de La Recoleta, igreja branca | Sucre "ciudad blanca" | Mario Falcetti · CC BY 4.0 |
 | 4 1548 | `lapaz-plaza-murillo.jpg` | Plaza Murillo: estátua, Palacio Legislativo, pombas | centro histórico / algo colonial | Dimitry B. · CC BY 2.0 |
-| 5 altura | `lapaz-valle-canon.jpg` | a cidade encaixada no cânion, montanhas vermelhas | "cidade dentro da cratera" | Dan Lundberg · CC BY-SA 2.0 |
+| 5 altura | `lapaz-valle-canon.jpg` | a cidade encaixada no cânion, montanhas vermelhas (recortada: sem a moldura da janela) | "cidade dentro da cratera" | Dan Lundberg · CC BY-SA 2.0 |
 | 6 6 a 1 | `lapaz-estadio-hernando-siles.jpg` | Estádio Hernando Siles visto de cima | estádio cheio ou da torcida boliviana | Parallelepiped09 · CC BY-SA 4.0 |
 | 7 teleférico | `lapaz-teleferico-roja.jpg` | cabine vermelha + torres + cordilheira | cabine com o Illimani ao fundo | EEJCC · CC BY-SA 4.0 |
 | 8 cebras | `lapaz-cebra.jpg` | uma zebra de braços abertos na faixa (vertical) | zebra em ação no trânsito | EEJCC · CC BY-SA 4.0 |
