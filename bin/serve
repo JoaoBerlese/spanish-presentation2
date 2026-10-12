@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Pré-visualiza o deck no navegador com recarga automática.
+# Uso: bin/serve   → abre http://localhost:8080
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+exec npx --yes @marp-team/marp-cli@4.5.1 --server slides/

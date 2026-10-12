@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# Exporta o deck para HTML, PDF e PPTX em build/.
+# Uso: bin/build
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+
+DECK="slides/la-paz.md"
+OUT="build"
+# Versão fixa do Marp CLI (reprodutível; Node 25 quebra o Marp — use Node 22/24).
+MARP=(npx --yes @marp-team/marp-cli@4.5.1)
+
+# Chrome para exportar PDF/PPTX (ajuste o caminho se precisar).
+export CHROME_PATH="${CHROME_PATH:-/usr/bin/google-chrome}"
+
+mkdir -p "$OUT"
+
+echo "→ HTML"
+"${MARP[@]}" "$DECK" --html -o "$OUT/la-paz.html"
+
+echo "→ PDF"
+"${MARP[@]}" "$DECK" --pdf --allow-local-files -o "$OUT/la-paz.pdf"
+
+echo "→ PPTX (para Google Slides / PowerPoint)"
+"${MARP[@]}" "$DECK" --pptx --allow-local-files -o "$OUT/la-paz.pptx"
+
+echo "✓ Pronto. Arquivos em $OUT/"
