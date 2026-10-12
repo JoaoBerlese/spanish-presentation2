@@ -207,3 +207,27 @@ section.juega.invertida { flex-direction: row-reverse; }
 
 /* "center" com foto de um lado: texto ocupa o lado livre */
 section.center p { text-wrap: balance; }
+
+/* ---- "ficha": foto à esquerda (bg left) + cartões de dados da cidade ---- */
+section.ficha { display: flex; flex-direction: column; justify-content: center; padding: 50px 54px; }
+section.ficha h1 { font-size: 1.9em; margin: 0 0 .5em; }
+.datos { display: flex; flex-wrap: wrap; gap: 16px; }
+.datos .dato {
+  box-sizing: border-box;
+  width: calc(50% - 8px);
+  display: flex; align-items: center; gap: 14px;
+  background: #fff;
+  border-radius: 14px;
+  border-left: 7px solid var(--cielo);
+  box-shadow: 0 8px 20px rgba(29,39,51,.13);
+  padding: 12px 16px;
+  font-size: .62em; line-height: 1.25;
+  color: rgba(29,39,51,.75);
+}
+.datos .dato .ico { font-size: 2.1em; line-height: 1; }
+.datos .dato b { display: block; font-size: 1.6em; font-weight: 800; color: var(--tinta); }
+.datos .dato:nth-child(2) { border-left-color: var(--rojo); }
+.datos .dato:nth-child(3) { border-left-color: var(--amarillo); }
+.datos .dato:nth-child(4) { border-left-color: var(--verde); }
+.datos .dato:nth-child(5) { border-left-color: var(--adobe); }
+.datos .dato:nth-child(6) { border-left-color: var(--rosa); }

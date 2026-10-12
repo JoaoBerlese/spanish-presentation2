@@ -25,8 +25,9 @@ metrô, zebras que organizam o trânsito e uma cultura aimará muito viva.
 1. **"Qual é a capital da Bolívia?"** — pegadinha: são duas.
 2. **A altura**: mais de 3.600 m; falta ar, o futebol vira arma (Bolívia 6×1 na
    Argentina de Maradona, 2009 — piada certeira para um professor rioplatense).
-3. **Cidade "mágica"**: cholitas (até lutadoras!), Mercado de las Brujas e a
-   Alasita, onde se compram desejos em miniatura.
+3. **Cidade "mágica"**: cholitas (até lutadoras!) e o Mercado de las Brujas.
+4. **Ficha técnica** rápida: população (El Alto já passou La Paz!), idiomas,
+   moeda, fuso e o título de "Ciudad Maravilla".
 
 ## Restrições de design (estilo "Presentation Zen")
 - **Pouco texto por slide** (≈ ≤ 20 palavras). O que se fala vai no ROTEIRO.
@@ -39,28 +40,30 @@ metrô, zebras que organizam o trânsito e uma cultura aimará muito viva.
 1. Portada — "La Paz, la ciudad que te deja sin aire". *(img: vale + Illimani)*
 2. Gancho — "¿Cuál es la capital de Bolivia?" (pergunta, pausa).
 3. Revelação — "¡Son dos!": Sucre (constitucional) e La Paz (sede de gobierno).
-4. 1548 — "Nuestra Señora de La Paz": o nome vem da paz depois de uma guerra civil.
-5. Altura — mais de 3.600 m; *soroche* e *mate de coca*.
+4. La Paz en datos — ficha técnica: +750 mil paceños, 1,6 milhão com El Alto,
+   espanhol e aimará, boliviano, UTC−4, Ciudad Maravilla (2014).
+5. 1548 — "Nuestra Señora de La Paz": o nome vem da paz depois de uma guerra civil.
+6. Altura — mais de 3.600 m; *soroche* e *mate de coca*.
 
 **Acto 2 — Vivir allá arriba**
-6. "6 a 1" — Bolívia × Argentina de Maradona (2009) e o veto da FIFA (2007).
-7. Teleférico — "el metro… ¡en el cielo!": 10 linhas, a maior rede urbana do mundo.
-8. Las cebras — jovens vestidos de zebra educam o trânsito desde 2001.
+7. "6 a 1" — Bolívia × Argentina de Maradona (2009) e o veto da FIFA (2007).
+8. Teleférico — "el metro… ¡en el cielo!": 10 linhas, a maior rede urbana do mundo.
+9. Las cebras — jovens vestidos de zebra educam o trânsito desde 2001.
 
 **Acto 3 — La Paz mágica**
-9. Las cholitas — pollera + bombín (e as *cholitas luchadoras* de El Alto).
-10. Mercado de las Brujas — amuletos, ervas e oferendas à Pachamama.
-11. Alasita — o Ekeko e as compras em miniatura (UNESCO, 2017).
+10. Las cholitas — pollera + bombín (e as *cholitas luchadoras* de El Alto).
+11. Mercado de las Brujas — amuletos, ervas e oferendas à Pachamama.
 12. Encerramento — "¿Te animás a subir a 3.600 metros?" + ¡Gracias!
 
 ### Ponderação (se passar de 5:00 no ensaio)
-Núcleo fixo: 1, 2–3, 5, 7, 9, 11, 12. Cortar nesta ordem:
-**4 (1548)** → **6 (6 a 1)** vira uma frase no slide 5 → **10 (Brujas)** funde com
-o 11 → **8 (cebras)** vira uma frase no slide 7.
+Núcleo fixo: 1, 2–3, 4 (datos), 6, 8, 10, 12. Cortar nesta ordem:
+**5 (1548)** → **7 (6 a 1)** vira uma frase no slide 6 → **11 (Brujas)** funde com
+o 10 (cholitas, "La Paz mágica") → **9 (cebras)** vira uma frase no slide 8.
 
 ### Reserva (fora do deck)
-Valle de la Luna (lenda do Armstrong), Camino de la Muerte (BID, 1995), Calle Jaén,
-Mirador Kili Kili, Chacaltaya (a pista de esqui mais alta do mundo; a geleira sumiu).
+Alasita (o Ekeko e os desejos em miniatura; UNESCO 2017 — saiu do deck para
+abrir espaço para a ficha técnica), Valle de la Luna (lenda do Armstrong),
+Camino de la Muerte (BID, 1995), Calle Jaén, Mirador Kili Kili, Chacaltaya (a pista de esqui mais alta do mundo; a geleira sumiu).
 
 ## Entregáveis
 - `slides/la-paz.md` — o deck (Marp).

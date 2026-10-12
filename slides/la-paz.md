@@ -74,6 +74,31 @@ Restan: ~4:25 (25s)
 
 ---
 
+<!-- _class: ficha -->
+![bg left:38% cover](../assets/lapaz-illimani-panorama.jpg)
+
+# La Paz en datos 📋
+
+<div class="datos">
+  <div class="dato"><span class="ico">👥</span><div><b>+750 mil</b>paceños</div></div>
+  <div class="dato"><span class="ico">🏙️</span><div><b>1,6 millones</b>con El Alto</div></div>
+  <div class="dato"><span class="ico">🗣️</span><div><b>Español</b>y aimara</div></div>
+  <div class="dato"><span class="ico">💵</span><div><b>Boliviano</b>moneda (Bs)</div></div>
+  <div class="dato"><span class="ico">🕐</span><div><b>UTC −4</b>Brasilia −1 h</div></div>
+  <div class="dato"><span class="ico">✨</span><div><b>2014</b>Ciudad Maravilla</div></div>
+</div>
+
+<!--
+Restan: ~4:00 (30s)
+
+- Ritmo rápido: es la "ficha técnica", no hace falta leer todo.
+- Censo 2024: La Paz ~757 mil; El Alto ~886 mil → ¡El Alto ya tiene más gente!
+- Bolivia tiene 37 idiomas oficiales: el español y 36 indígenas (aimara, quechua…).
+- Ciudad Maravilla: una de las 7 ciudades maravilla del mundo (New7Wonders, 2014).
+-->
+
+---
+
 <!-- _class: obra-hero derecha -->
 ![bg cover](../assets/lapaz-plaza-murillo.jpg)
 
@@ -86,7 +111,7 @@ Restan: ~4:25 (25s)
 </div>
 
 <!--
-Restan: ~4:00 (25s)
+Restan: ~3:30 (25s)
 
 - Fundada por Alonso de Mendoza, el 20 de octubre de 1548.
 - "La Paz" = la paz después de la guerra entre los conquistadores (Pizarro).
@@ -108,7 +133,7 @@ Restan: ~4:00 (25s)
 <div class="lead">¿Te falta el aire? Es el <strong>soroche</strong>.<br>Remedio: <strong>mate de coca</strong> 🍵</div>
 
 <!--
-Restan: ~3:35 (30s)
+Restan: ~3:05 (30s)
 
 - Más de 3.600 metros. Para comparar: Brasilia está a unos 1.200.
 - La ciudad está metida en un cañón; arriba, El Alto, a más de 4.000.
@@ -130,7 +155,7 @@ Restan: ~3:35 (30s)
 <div class="lead">El técnico de Argentina era… <strong>Maradona</strong> 😮‍💨</div>
 
 <!--
-Restan: ~3:05 (25s)
+Restan: ~2:35 (25s)
 
 - Mirar al profe: "perdón, profe… es un dato histórico" (guiño rioplatense).
 - Maradona: "cada gol de Bolivia fue un puñal en mi corazón".
@@ -151,7 +176,7 @@ Restan: ~3:05 (25s)
 </div>
 
 <!--
-Restan: ~2:40 (30s)
+Restan: ~2:10 (30s)
 
 - Mi Teleférico: la primera línea abrió en 2014; se usa como un metro.
 - Cada línea tiene un color: roja, amarilla, verde, azul, morada…
@@ -176,7 +201,7 @@ te enseñan a cruzar la calle…
 </div>
 
 <!--
-Restan: ~2:10 (25s)
+Restan: ~1:40 (25s)
 
 - Empezó con 24 jóvenes; hoy ya pasaron más de 3.000.
 - Son jóvenes en situación de riesgo: tienen sueldo, seguro y capacitación.
@@ -198,7 +223,7 @@ Restan: ~2:10 (25s)
 </div>
 
 <!--
-Restan: ~1:45 (30s)
+Restan: ~1:15 (30s)
 
 - Antes "chola" era un insulto; hoy es orgullo.
 - Dicen que el sombrero llegó por error: eran para hombres y quedaron chicos.
@@ -220,38 +245,11 @@ Restan: ~1:45 (30s)
 <div class="lead">Hierbas, amuletos… y <strong>fetos de llama</strong> para la Pachamama 🦙</div>
 
 <!--
-Restan: ~1:15 (25s)
+Restan: ~0:45 (25s)
 
 - Queda en el centro, en la calle Linares, cerca de San Francisco.
 - El feto de llama se entierra debajo de una casa nueva: es una ofrenda a la Pachamama, para tener suerte.
 - Lo venden los yatiris, los sabios andinos.
--->
-
----
-
-<!-- _class: juega invertida -->
-<img class="foto" style="object-position: center 80%" src="../assets/lapaz-alasita-miniaturas.jpg" alt="Ekeko con miniaturas de la Alasita">
-
-<div class="txt">
-
-<div class="eyebrow">24 de enero · UNESCO</div>
-
-# Alasita 🏠🚗💵
-
-Comprás tu deseo **en miniatura**…
-¡y el **Ekeko** te lo cumple!
-
-<div class="lead">¿Vos qué comprarías?</div>
-
-</div>
-
-<!--
-Restan: ~0:50 (30s)
-
-- Una feria de miniaturas: casitas, autitos, billetes, diplomas.
-- Las hacen bendecir; dicen que así el deseo se cumple durante el año.
-- El Ekeko es el dios de la abundancia. Patrimonio de la UNESCO desde 2017.
-- Preguntar a uno o dos compañeros: "¿qué comprarías vos?".
 -->
 
 ---
@@ -264,14 +262,14 @@ Restan: ~0:50 (30s)
 
 ## ¡Muchas gracias!
 
-<div class="creditos">Fotos: Wikimedia Commons — ValBellC, Rodrigo Achá, Mario Falcetti, Dimitry B., Dan Lundberg, Parallelepiped09, EEJCC, Jmillan325, Joel Alvarez, PsamatheM, Los PEPERS, Matteo Leoni (CC BY / CC BY-SA)</div>
+<div class="creditos">Fotos: Wikimedia Commons — ValBellC, Rodrigo Achá, Mario Falcetti, Pavel Špindler, Dimitry B., Dan Lundberg, Parallelepiped09, EEJCC, Jmillan325, Joel Alvarez, PsamatheM, Matteo Leoni (CC BY / CC BY-SA)</div>
 
 <div class="aguayo"></div>
 
 <!--
 Restan: ~0:20 (20s)
 
-- Repaso rápido de 3 palabras: soroche, cholita, Alasita.
+- Repaso rápido de 3 palabras: soroche, cholita, paceño.
 - Pregunta final al voseo, mirando al profe.
 - Agradecer y sonreír.
 -->

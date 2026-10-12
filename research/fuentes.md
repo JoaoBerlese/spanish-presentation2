@@ -74,7 +74,7 @@
 | Os fetos de lhama são enterrados nos alicerces de casas novas como **oferenda à Pachamama** (para dar sorte). | Howlanders; Mochileando por el mundo | ✅ |
 | Os curandeiros/sábios andinos são os **yatiris**. | Latin America for Less | ✅ |
 
-## 9 · Alasita
+## 9 · Alasita (fora do deck — slide removido; fatos guardados como reserva)
 | Fato | Fonte | Conf. |
 |---|---|---|
 | Começa em **24 de janeiro** e dura 2–3 semanas. | UNESCO ICH 01182 | ✅ |
@@ -89,6 +89,19 @@
 | **Camino de la Muerte** (Yungas): o BID o chamou de "estrada mais perigosa do mundo" em 1995. Hoje é rota de mountain bike. | Billiken; EcuRed | ✅ |
 | **Chacaltaya** foi a pista de esqui mais alta do mundo; a geleira sumiu em 2009. | Vou na Janela; várias | ✅ |
 | **Valle de la Luna**: diz-se que o nome veio de Neil Armstrong. | Vou na Janela | 🗣️ |
+
+## 11 · Ficha técnica (slide "La Paz en datos")
+| Fato | Fonte | Conf. |
+|---|---|---|
+| **Censo 2024 (resultados finais, ago/2025):** município de La Paz com **757.431** hab.; **El Alto** com **885.825** — El Alto já é o município mais populoso do departamento. Preliminar (ago/2024): 755.732 e 885.035. | INE via El Deber; Wikipedia (es) "La Paz" | ✅ → no slide: "**+750 mil**" |
+| **La Paz + El Alto ≈ 1,6 milhão** de habitantes (757 mil + 886 mil). A área metropolitana inteira (com Viacha, Achocalla etc.) passa de 2 milhões, mas os números variam. | Agencia Fides; soma do Censo 2024 | ✅ → "**1,6 millones con El Alto**" |
+| O censo é contestado: o INE estima que ~200 mil pessoas viajaram de La Paz/El Alto no dia do censo. | ABI; La Razón | ⚠️ não citar no slide |
+| Gentílico: **paceño / paceña**. | Wikipedia (es) "La Paz" | ✅ |
+| **37 idiomas oficiais**: o castelhano e os 36 idiomas dos povos indígenas (aimará, quéchua, guarani…). | Constitución Política del Estado, art. 5.I | ✅ |
+| Moeda: **boliviano (Bs)**. | Wikipedia (es) "La Paz" | ✅ |
+| Fuso: **UTC−4** o ano todo, sem horário de verão → **1 hora a menos que Brasília** (UTC−3, sem horário de verão desde 2019). | timeanddate (BOT) | ✅ |
+| **Ciudad Maravilla**: escolhida uma das 7 cidades maravilha (New7Wonders) em **07/12/2014**. | Wikipedia (es) "La Paz" | ✅ |
+| Clima: as fontes divergem na média anual (de ~9 °C a ~16 °C, conforme a estação/altitude); chuvas de **dezembro a abril**. | Wikipedia (es) "La Paz"; Datosmundial | ⚠️ não pôr temperatura no slide |
 
 ## Links
 - Constitución Política del Estado (2009), art. 6: https://www.oas.org/dil/esp/constitucion_bolivia.pdf
@@ -107,6 +120,10 @@
 - Wikipedia (en) — Hernando Siles Stadium: https://en.wikipedia.org/wiki/Hernando_Siles_Stadium
 - Global Voices — Bolivia 6-1 Argentina: https://globalvoices.org/2009/04/05/bolivia-unlikely-and-historic-6-1-win-over-argentina/
 - Cooperativa.cl — veto de altura 2007: https://cooperativa.cl/noticias/deportes/futbol/fifa/en-bolivia-consideran-un-atentado-la-prohibicion-de-partidos/2007-05-28/103236.html
+- El Deber — El Alto tiene más habitantes que La Paz (Censo 2024): https://eldeber.com.bo/pais/el-alto-tiene-mas-habitantes-que-la-paz-ratifica-el-censo-2024_528166/
+- Agencia Fides — La Paz y El Alto suman 1,6 millones: https://www.noticiasfides.com/nacional/sociedad/la-paz-y-el-alto-suman-1-6-millones-de-habitantes-casi-la-misma-poblacion-que-tiene-el-municipio-de-santa-cruz
+- ABI — 200.000 personas dejaron La Paz y El Alto el día del censo: https://www.abi.bo/index.php/sociedad2/54486-ine-calcula-que-para-el-dia-del-censo-unas-200-000-personas-dejaron-la-paz-y-el-alto
+- timeanddate — Bolivia Time (BOT): https://www.timeanddate.com/library/abbreviations/timezones/sa/bot.html
 - Vou na Janela — roteiro La Paz (inspiração/imagens): https://www.vounajanela.com/bolivia/o-que-fazer-em-la-paz-na-bolivia-roteiro-de-2-ou-3-dias/
 
 ## Imagens

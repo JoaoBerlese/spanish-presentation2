@@ -20,7 +20,7 @@
 - **Máximo ~20 palavras por slide.** O resto se fala e vai no roteiro.
 - Estética Presentation Zen: um título forte + um apoio visual (foto ou emoji).
 - Cada slide é um bloco separado por `---` em `slides/la-paz.md`.
-- Classes do tema (ver `themes/lapaz.css`): `title`, `curioso`, `center`,
+- Classes do tema (ver `themes/lapaz.css`): `title`, `curioso`, `center`, `ficha`,
   `foto-hero`, `obra-hero`, `dramatico`, `juega`, `cierre`.
 - Presenter notes no fim de cada slide, em `<!-- ... -->`, começando com
   `Restan: ~MM:SS (Ds)` (tempo restante dos 5:00 + duração do slide). Bullets curtos:
@@ -39,7 +39,7 @@ todos os `Restan:`.
   pesquisar e citar antes de colocar num slide.
 - Números que variam entre fontes → arredondar com honestidade ("más de 3.600 m",
   "más de 30 km").
-- Lendas são ditas como lenda ("dicen que…"): origem do bombín, Ekeko, Armstrong.
+- Lendas são ditas como lenda ("dicen que…"): origem do bombín, chapéu reto = casada, Armstrong.
 - La Paz é **sede de gobierno**; a capital constitucional é **Sucre**. Nunca escrever
   "capital más alta del mundo" sem esse contexto.
 
