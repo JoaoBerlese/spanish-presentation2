@@ -54,13 +54,20 @@ todos os `Restan:`.
 - Node 24 + Marp CLI 4.5.1 (fixado nos scripts, via `npx`). Node 25 quebra o Marp.
 - **Sempre** chamar o Marp com `</dev/null`: se o stdin não for um terminal (pipe,
   agente, CI), ele fica esperando Markdown pelo stdin e trava para sempre.
+- O usuário abre o PDF no **Visualizador de Documentos (Evince/poppler)**, não só
+  no Chrome. Conferir também com `pdftocairo -png build/la-paz.pdf <tmp>/c`.
+- **Escurecimento sobre foto = PNG** (`assets/scrim-*.png`, gerados por
+  `bin/scrims`). Nunca `linear-gradient` com `rgba` sobre foto: no PDF o Evince
+  desenha isso rosa ou não desenha.
 
 ## Imagens
 - Ficam em `assets/`, nome `lapaz-<descricao>.jpg` (minúsculas, sem acento, com
   hífen); `.png` só para logos/transparência.
 - Nada de imagem remota no deck: quebra PDF/PPTX.
 - Toda imagem tem linha em `research/catalogo-imagenes.md` (origem, autor, licença,
-  slide). Imagens CC BY/BY-SA entram na linha de créditos do slide de encerramento.
+  slide). Os créditos ficam **só no catálogo**: o usuário pediu para tirar a
+  linha de créditos do slide de encerramento.
+- `assets/scrim-*.png` não são fotos: são as camadas de escurecimento do tema.
 
 ## Commits
 - Mensagens em português, uma mudança por commit quando for ajuste visual

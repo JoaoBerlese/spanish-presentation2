@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+# Gera os PNGs de escurecimento (scrim) usados pelo tema em themes/lapaz.css.
+#
+# Por que imagem e não CSS? Um linear-gradient com rgba vira, no PDF do Chrome,
+# um degradê com máscara de transparência que o Evince/poppler desenha errado
+# (fica rosa ou simplesmente some). Um PNG com canal alfa aparece igual em
+# todos os visualizadores (Chrome, Evince, PowerPoint, Google Slides).
+#
+# Uso: bin/scrims   (só precisa rodar de novo se mudar os degradês abaixo)
+from pathlib import Path
+from PIL import Image
+
+W, H = 1280, 720
+ASSETS = Path(__file__).resolve().parent.parent / "assets"
+
+
+def lerp(stops, t):
+    """Interpola a opacidade entre paradas [(posição 0..1, alfa 0..1), ...]."""
+    for (p0, a0), (p1, a1) in zip(stops, stops[1:]):
+        if t <= p1:
+            return a0 + (a1 - a0) * (t - p0) / (p1 - p0)
+    return stops[-1][1]
+
+
+def salvar(nome, rgb, alfa):
+    """alfa(i, j) -> 0..1 para cada pixel (i = coluna, j = linha)."""
+    mascara = Image.new("L", (W, H))
+    mascara.putdata([round(255 * alfa(i, j)) for j in range(H) for i in range(W)])
+    img = Image.new("RGBA", (W, H), rgb + (0,))
+    img.putalpha(mascara)
+    img.save(ASSETS / nome, optimize=True)
+    print("ok", ASSETS / nome)
+
+
+# Portada: escurece de baixo para cima (o texto fica embaixo à esquerda).
+vertical = [lerp([(0, .88), (.34, .55), (.62, 0), (1, 0)], 1 - j / (H - 1)) for j in range(H)]
+salvar("scrim-portada.png", (8, 14, 22), lambda i, j: vertical[j])
+
+# Dramático: escuro à esquerda (texto) + um pouco embaixo; os dois degradês somados.
+horiz = [lerp([(0, .9), (.32, .58), (.6, .1), (.8, 0), (1, 0)], i / (W - 1)) for i in range(W)]
+base = [lerp([(0, .55), (.4, 0), (1, 0)], 1 - j / (H - 1)) for j in range(H)]
+salvar("scrim-dramatico.png", (6, 8, 10), lambda i, j: 1 - (1 - horiz[i]) * (1 - base[j]))

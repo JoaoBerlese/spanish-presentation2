@@ -10,12 +10,7 @@
   --rojo: #D52B1E;        /* bandeira boliviana */
   --amarillo: #F4C300;
   --verde: #007934;
-  --rosa: #C2185B;        /* aguayo */
-  /* faixa de tecido andino (aguayo), usada em portada/cierre */
-  --aguayo: linear-gradient(180deg,
-    var(--rojo) 0 5px, var(--amarillo) 5px 9px, var(--verde) 9px 14px,
-    var(--rosa) 14px 17px, #F28C28 17px 22px, var(--cielo) 22px 25px,
-    var(--rojo) 25px 30px);
+  --rosa: #C2185B;
 }
 
 section {
@@ -79,16 +74,10 @@ section.center, section.title, section.curioso, section.statement, section.cierr
 section.center, section.title, section.curioso, section.cierre { align-items: center; text-align: center; }
 section.center .lead, section.center .eyebrow { margin-left: auto; margin-right: auto; }
 
-/* ---- faixa aguayo (portada e cierre): elemento real, porque o ::before
-   some nos slides com imagem de fundo (advanced background do Marp) ---- */
-section .aguayo {
-  position: absolute !important;
-  left: 0; right: 0; bottom: 0;
-  height: 30px;
-  background: var(--aguayo);
-  z-index: 2;
-  text-shadow: none;
-}
+/* ---- escurecimento (scrim): é uma IMAGEM PNG com transparência, não um
+   linear-gradient com rgba. O Chrome grava degradê transparente no PDF de um jeito
+   que o Evince/poppler desenha errado (fica rosa ou some); PNG com alfa funciona
+   em todos os visualizadores. Os PNGs são gerados por bin/scrims. ---- */
 
 /* ---- portada: foto a sangue + texto embaixo à esquerda ---- */
 section.title {
@@ -97,11 +86,11 @@ section.title {
   justify-content: flex-end;
   align-items: flex-start;
   text-align: left;
-  padding: 56px 68px 78px;
+  padding: 56px 68px 64px;
 }
 section.title .scrim {
   position: absolute; inset: 0; z-index: 0;
-  background: linear-gradient(0deg, rgba(8,14,22,.88) 0%, rgba(8,14,22,.55) 34%, rgba(8,14,22,0) 62%);
+  background: url(../assets/scrim-portada.png) center / 100% 100% no-repeat;
 }
 section.title > *:not(.scrim) { position: relative; z-index: 1; text-shadow: 0 2px 16px rgba(0,0,0,.5); }
 section.title h1 { color: #fff; font-size: 3.8em; margin: 0 0 .05em; line-height: 1; }
@@ -132,7 +121,6 @@ section.cierre {
 section.cierre > * { text-shadow: 0 2px 16px rgba(0,0,0,.55); }
 section.cierre h1 { color: #fff; font-size: 2.6em; }
 section.cierre h2 { color: var(--amarillo); }
-.creditos { margin-top: 2.2em; font-size: .4em; line-height: 1.5; color: rgba(255,255,255,.9); letter-spacing: .02em; max-width: 62em; background: rgba(8,14,22,.62); border-radius: 10px; padding: 8px 16px; text-shadow: none; }
 
 /* ---- foto a sangue (full-bleed) + painel de leitura ---- */
 section.foto-hero { display: flex; flex-direction: column; justify-content: flex-end; padding: 54px 56px; }
@@ -163,9 +151,7 @@ section.obra-hero.derecha .panel { max-width: 40%; }
 section.dramatico { display: flex; flex-direction: column; justify-content: flex-end; padding: 56px 64px; color: #fff; }
 section.dramatico .scrim {
   position: absolute; inset: 0; z-index: 0;
-  background:
-    linear-gradient(90deg, rgba(6,8,10,.9) 0%, rgba(6,8,10,.58) 32%, rgba(6,8,10,.1) 60%, rgba(6,8,10,0) 80%),
-    linear-gradient(0deg, rgba(6,8,10,.55) 0%, rgba(6,8,10,0) 40%);
+  background: url(../assets/scrim-dramatico.png) center / 100% 100% no-repeat;
 }
 section.dramatico > *:not(.scrim) { position: relative; z-index: 1; text-shadow: 0 2px 14px rgba(0,0,0,.55); }
 section.dramatico .eyebrow { color: #ffd84d; }

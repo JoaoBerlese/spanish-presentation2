@@ -50,8 +50,8 @@ foto sua:
    ```
    - `bg` = fundo · `right:42%` = ocupa 42% à direita (pode ser `left`, ou mudar o %).
    - `cover` = preenche recortando · `contain` = mostra a imagem inteira.
-3. **Atualize o crédito** em `research/catalogo-imagenes.md` e, se a licença pedir
-   (CC BY/BY-SA), na linha de créditos do último slide.
+3. **Atualize o crédito** em `research/catalogo-imagenes.md` (o deck não tem mais
+   linha de créditos no último slide; eles ficam só no catálogo).
 4. Rode `bin/build` e **confira o PDF** (é mais rígido que o HTML).
 
 ## Para apresentar

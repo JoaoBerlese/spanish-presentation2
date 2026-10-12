@@ -22,8 +22,6 @@ description: Presentación de español (Fisk, Módulo 3) sobre La Paz, sede de g
 
 <div class="firma">por Juan Berlese</div>
 
-<div class="aguayo"></div>
-
 <!--
 Restan: ~5:00 (20s)
 
@@ -261,10 +259,6 @@ Restan: ~0:45 (25s)
 # ¿Te animás a subir<br>a 3.600 metros? 🏔️
 
 ## ¡Muchas gracias!
-
-<div class="creditos">Fotos: Wikimedia Commons — ValBellC, Rodrigo Achá, Mario Falcetti, Pavel Špindler, Dimitry B., Dan Lundberg, Parallelepiped09, EEJCC, Jmillan325, Joel Alvarez, PsamatheM, Matteo Leoni (CC BY / CC BY-SA)</div>
-
-<div class="aguayo"></div>
 
 <!--
 Restan: ~0:20 (20s)

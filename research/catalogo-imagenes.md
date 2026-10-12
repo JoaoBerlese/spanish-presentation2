@@ -6,7 +6,7 @@ Deck: **12 slides**, com **13 imagens usadas** e **5 de reserva**.
 
 > **"Lista de compras" para trocar:** qualquer imagem pode ser substituída por uma
 > foto sua. O jeito mais fácil é **salvar por cima com o mesmo nome**. Depois,
-> atualizar a linha aqui e o crédito no slide de encerramento.
+> atualizar a linha aqui (os créditos ficam só neste catálogo).
 > A coluna *Ideal* diz o que procurar se for trocar.
 
 ## Convenção de nomes
@@ -62,7 +62,15 @@ Título do arquivo no Commons → `https://commons.wikimedia.org/wiki/File:<tít
 | `lapaz-ekeko-figura.jpg` | Ekeko Bolivia.JPG |
 | `lapaz-cholitas-escaladoras.jpg` | Grupos de escaladoras aymaras.jpg |
 
-## Créditos (linha do slide de encerramento)
-Todas as fotos do deck são CC BY / CC BY-SA, então **o crédito é obrigatório**.
-Formato curto no slide: `Fotos: Wikimedia Commons — ValBellC, R. Achá, M. Falcetti, …`
-(lista completa acima). Uso educativo (apresentação de aula).
+## Créditos
+Todas as fotos do deck são CC BY / CC BY-SA. A pedido do usuário, o deck **não**
+tem mais linha de créditos no slide final; a atribuição fica registrada aqui
+(lista completa acima). Uso educativo (apresentação de aula). Se o deck for
+publicado ou distribuído fora da aula, vale voltar com a linha:
+`Fotos: Wikimedia Commons — ValBellC, Rodrigo Achá, Mario Falcetti, Pavel Špindler, Dimitry B., Dan Lundberg, Parallelepiped09, EEJCC, Jmillan325, Joel Alvarez, PsamatheM, Matteo Leoni (CC BY / CC BY-SA)`
+
+## Camadas técnicas (não são fotos)
+| Arquivo | O que é |
+|---|---|
+| `scrim-portada.png` | escurecimento de baixo para cima da portada (gerado por `bin/scrims`) |
+| `scrim-dramatico.png` | escurecimento à esquerda e embaixo dos slides `dramatico` (gerado por `bin/scrims`) |
