@@ -49,9 +49,11 @@ todos os `Restan:`.
 - O PDF é mais rígido que o HTML: refazer o build e conferir depois de qualquer
   mudança de layout. Preferir flex a grid.
 - Revisão visual: exportar PNG por slide
-  (`npx @marp-team/marp-cli@4.5.1 slides/la-paz.md --images png --allow-local-files -o <tmp>/s.png`)
+  (`npx @marp-team/marp-cli@4.5.1 slides/la-paz.md --images png --allow-local-files -o <tmp>/s.png </dev/null`)
   e olhar cada imagem (corte de texto, contraste, enquadramento).
 - Node 24 + Marp CLI 4.5.1 (fixado nos scripts, via `npx`). Node 25 quebra o Marp.
+- **Sempre** chamar o Marp com `</dev/null`: se o stdin não for um terminal (pipe,
+  agente, CI), ele fica esperando Markdown pelo stdin e trava para sempre.
 
 ## Imagens
 - Ficam em `assets/`, nome `lapaz-<descricao>.jpg` (minúsculas, sem acento, com

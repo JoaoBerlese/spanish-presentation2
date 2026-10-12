@@ -9,6 +9,8 @@ DECK="slides/la-paz.md"
 OUT="build"
 # Versão fixa do Marp CLI (reprodutível; Node 25 quebra o Marp — use Node 22/24).
 MARP=(npx --yes @marp-team/marp-cli@4.5.1)
+# Importante: o Marp tenta ler Markdown do stdin quando ele não é um terminal e
+# trava esperando. Por isso toda chamada redireciona </dev/null.
 
 # Chrome para exportar PDF/PPTX (ajuste o caminho se precisar).
 export CHROME_PATH="${CHROME_PATH:-/usr/bin/google-chrome}"
@@ -16,12 +18,12 @@ export CHROME_PATH="${CHROME_PATH:-/usr/bin/google-chrome}"
 mkdir -p "$OUT"
 
 echo "→ HTML"
-"${MARP[@]}" "$DECK" --html -o "$OUT/la-paz.html"
+"${MARP[@]}" "$DECK" --html -o "$OUT/la-paz.html" </dev/null
 
 echo "→ PDF"
-"${MARP[@]}" "$DECK" --pdf --allow-local-files -o "$OUT/la-paz.pdf"
+"${MARP[@]}" "$DECK" --pdf --allow-local-files -o "$OUT/la-paz.pdf" </dev/null
 
 echo "→ PPTX (para Google Slides / PowerPoint)"
-"${MARP[@]}" "$DECK" --pptx --allow-local-files -o "$OUT/la-paz.pptx"
+"${MARP[@]}" "$DECK" --pptx --allow-local-files -o "$OUT/la-paz.pptx" </dev/null
 
 echo "✓ Pronto. Arquivos em $OUT/"
