@@ -2,7 +2,7 @@
 
 18 imagens-base do **Wikimedia Commons** (licenças livres), normalizadas
 (orientação corrigida, lado maior ≤ 1920 px, JPEG q85).
-Deck: **12 slides**, com **13 imagens usadas** e **5 de reserva**.
+Deck: **13 slides** (o 8 é a transição, sem foto), com **13 imagens usadas** e **5 de reserva**.
 
 > **"Lista de compras" para trocar:** qualquer imagem pode ser substituída por uma
 > foto sua. O jeito mais fácil é **salvar por cima com o mesmo nome**. Depois,
@@ -22,12 +22,12 @@ Deck: **12 slides**, com **13 imagens usadas** e **5 de reserva**.
 | 5 1548 | `lapaz-plaza-murillo.jpg` | Plaza Murillo: estátua, Palacio Legislativo, pombas | centro histórico / algo colonial | Dimitry B. · CC BY 2.0 |
 | 6 altura | `lapaz-valle-canon.jpg` | a cidade encaixada no cânion, montanhas vermelhas (recortada: sem a moldura da janela) | "cidade dentro da cratera" | Dan Lundberg · CC BY-SA 2.0 |
 | 7 teleférico | `lapaz-teleferico-roja.jpg` | cabine vermelha + torres + cordilheira | cabine com o Illimani ao fundo | EEJCC · CC BY-SA 4.0 |
-| 8 6 a 1 | `lapaz-estadio-hernando-siles.jpg` | Estádio Hernando Siles visto de cima | estádio cheio ou da torcida boliviana | Parallelepiped09 · CC BY-SA 4.0 |
-| 9 cebras | `lapaz-cebra.jpg` | uma zebra de braços abertos na faixa (vertical) | zebra em ação no trânsito | EEJCC · CC BY-SA 4.0 |
-| 10 cholitas | `lapaz-cholitas.jpg` | duas cholitas de pollera dourada e bombín | cholitas com bombín, cores vivas | Jmillan325 · CC BY-SA 4.0 |
-| 10 cholitas | `lapaz-cholitas-luchadoras.jpg` | cholitas luchadoras no ringue (pequena, 625 px) | luta no ringue, em boa resolução | Joel Alvarez · CC BY 3.0 |
-| 11 brujas | `lapaz-mercado-brujas.jpg` | barraca com fetos de lhama pendurados, ervas, velas | barraca com fetos de lhama bem visíveis | PsamatheM · CC BY-SA 4.0 |
-| 12 cierre | `lapaz-illimani-atardecer.jpg` | Illimani rosado no pôr do sol + luzes (1024 px) | Illimani ao entardecer em alta resolução | Matteo Leoni · CC BY 2.0 |
+| 9 6 a 1 | `lapaz-estadio-hernando-siles.jpg` | Estádio Hernando Siles visto de cima | estádio cheio ou da torcida boliviana | Parallelepiped09 · CC BY-SA 4.0 |
+| 10 cebras | `lapaz-cebra.jpg` | uma zebra de braços abertos na faixa (vertical) | zebra em ação no trânsito | EEJCC · CC BY-SA 4.0 |
+| 11 cholitas | `lapaz-cholitas.jpg` | duas cholitas de pollera dourada e bombín | cholitas com bombín, cores vivas | Jmillan325 · CC BY-SA 4.0 |
+| 11 cholitas | `lapaz-cholitas-luchadoras.jpg` | cholitas luchadoras no ringue (pequena, 625 px) | luta no ringue, em boa resolução | Joel Alvarez · CC BY 3.0 |
+| 12 brujas | `lapaz-mercado-brujas.jpg` | barraca com fetos de lhama pendurados, ervas, velas | barraca com fetos de lhama bem visíveis | PsamatheM · CC BY-SA 4.0 |
+| 13 cierre | `lapaz-illimani-atardecer.jpg` | Illimani rosado no pôr do sol + luzes (1024 px) | Illimani ao entardecer em alta resolução | Matteo Leoni · CC BY 2.0 |
 
 ## Reserva
 | Arquivo | Mostra | Uso possível | Autor · Licença |
@@ -36,7 +36,7 @@ Deck: **12 slides**, com **13 imagens usadas** e **5 de reserva**.
 | `lapaz-teleferico-cabinas.jpg` | cabines amarelas sobre as casas de tijolo | alternativa ao slide 7 ou 6 | Dan Lundberg · CC BY-SA 2.0 |
 | `lapaz-alasita-miniaturas.jpg` | Ekeko dourado com casinha, carro e dinheiro em miniatura | Alasita (slide removido) | Los PEPERS · CC BY-SA 4.0 |
 | `lapaz-ekeko-figura.jpg` | bonequinho do Ekeko carregado de coisas | Alasita (slide removido) | Phdela · domínio público |
-| `lapaz-cholitas-escaladoras.jpg` | cholitas escaladoras de capacete | curiosidade extra no slide 10 | Caleidoscopic · CC BY-SA 4.0 |
+| `lapaz-cholitas-escaladoras.jpg` | cholitas escaladoras de capacete | curiosidade extra no slide 11 | Caleidoscopic · CC BY-SA 4.0 |
 
 ## Origem (Wikimedia Commons)
 Título do arquivo no Commons → `https://commons.wikimedia.org/wiki/File:<título>`

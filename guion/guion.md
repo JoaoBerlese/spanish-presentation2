@@ -65,7 +65,7 @@
 
 ---
 
-### 7 · Teleférico — Restan: ~2:35 (30s)
+### 7 · Teleférico — Restan: ~2:35 (25s)
 > ¿Y cómo se mueve la gente en una ciudad llena de subidas?
 > **¡Por el cielo!** La Paz tiene un **teleférico** que funciona como un metro:
 > **diez líneas**, más de **treinta kilómetros**, cada línea de un color.
@@ -75,7 +75,14 @@
 
 ---
 
-### 8 · 6 a 1 — Restan: ~2:05 (25s)
+### 8 · Transición — Restan: ~2:10 (5s)
+> Y ahora… ¡las **curiosidades**!
+
+🔊 *curiosidades → "ku-rio-si-dá-des"*
+
+---
+
+### 9 · 6 a 1 — Restan: ~2:05 (25s)
 > Y la altura… ¡también juega al fútbol! *(mirar al profe)* Perdón, profe, pero es historia:
 > en **2009**, en este estadio, **Bolivia le ganó 6 a 1 a Argentina**.
 > ¿Y saben quién era el técnico argentino? **Maradona**.
@@ -85,7 +92,7 @@
 
 ---
 
-### 9 · Las cebras — Restan: ~1:40 (25s)
+### 10 · Las cebras — Restan: ~1:40 (25s)
 > En las calles hay otra cosa muy rara: **cebras**.
 > Son jóvenes **disfrazados de cebra** que, desde 2001, enseñan a la gente a cruzar
 > por el **paso de cebra** y a respetar el semáforo.
@@ -95,7 +102,7 @@
 
 ---
 
-### 10 · Las cholitas — Restan: ~1:15 (30s)
+### 11 · Las cholitas — Restan: ~1:15 (30s)
 > Estas señoras son las **cholitas**: llevan **pollera**, dos **trenzas** y un **bombín**.
 > Dicen que el sombrero llegó por error: eran para hombres, ¡pero quedaron chicos!
 > Y también dicen que, si está derecho, la mujer está casada; si está inclinado, soltera.
@@ -105,7 +112,7 @@
 
 ---
 
-### 11 · Mercado de las Brujas — Restan: ~0:45 (25s)
+### 12 · Mercado de las Brujas — Restan: ~0:45 (25s)
 > En el centro hay un mercado muy especial: el **Mercado de las Brujas**.
 > Venden hierbas, amuletos… y **fetos de llama**.
 > La gente los entierra debajo de una casa nueva, como ofrenda a la **Pachamama**,
@@ -115,7 +122,7 @@
 
 ---
 
-### 12 · Cierre — Restan: ~0:20 (20s)
+### 13 · Cierre — Restan: ~0:20 (20s)
 > Entonces: una ciudad con dos capitales, sin aire, con teleférico, cebras, cholitas y brujas.
 > Tres palabras para llevarse: **soroche**, **cholita** y **paceño**.
 > Y la pregunta final: **¿te animás a subir a 3.600 metros?**

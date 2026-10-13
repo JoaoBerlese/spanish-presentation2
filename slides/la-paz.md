@@ -153,11 +153,24 @@ Restan: ~3:05 (30s)
 </div>
 
 <!--
-Restan: ~2:35 (30s)
+Restan: ~2:35 (25s)
 
 - Mi Teleférico: la primera línea abrió en 2014; se usa como un metro.
 - Cada línea tiene un color: roja, amarilla, verde, azul, morada…
 - Une La Paz con El Alto (unos 400 m más arriba) por el aire, sin tráfico.
+-->
+
+---
+
+<!-- _class: curioso -->
+<div class="eyebrow">Y ahora…</div>
+
+# ¡Curiosidades! 🤯
+
+<!--
+Restan: ~2:10 (5s)
+
+- Solo una frase, con energía, y pasar rápido.
 -->
 
 ---
