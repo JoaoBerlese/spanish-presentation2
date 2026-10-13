@@ -141,27 +141,6 @@ Restan: ~3:05 (30s)
 
 ---
 
-<!-- _class: dramatico -->
-![bg cover](../assets/lapaz-estadio-hernando-siles.jpg)
-
-<div class="scrim"></div>
-
-<div class="eyebrow">1 de abril de 2009 · Estadio Hernando Siles</div>
-
-# Bolivia <span class="golpe">6</span><br>Argentina 1 ⚽
-
-<div class="lead">El técnico de Argentina era… <strong>Maradona</strong> 😮‍💨</div>
-
-<!--
-Restan: ~2:35 (25s)
-
-- Mirar al profe: "perdón, profe… es un dato histórico" (guiño rioplatense).
-- Maradona: "cada gol de Bolivia fue un puñal en mi corazón".
-- En 2007 la FIFA quiso prohibir partidos en la altura… y Bolivia ganó la pelea (2008).
--->
-
----
-
 <!-- _class: foto-hero -->
 ![bg cover](../assets/lapaz-teleferico-roja.jpg)
 
@@ -174,11 +153,32 @@ Restan: ~2:35 (25s)
 </div>
 
 <!--
-Restan: ~2:10 (30s)
+Restan: ~2:35 (30s)
 
 - Mi Teleférico: la primera línea abrió en 2014; se usa como un metro.
 - Cada línea tiene un color: roja, amarilla, verde, azul, morada…
 - Une La Paz con El Alto (unos 400 m más arriba) por el aire, sin tráfico.
+-->
+
+---
+
+<!-- _class: dramatico -->
+![bg cover](../assets/lapaz-estadio-hernando-siles.jpg)
+
+<div class="scrim"></div>
+
+<div class="eyebrow">1 de abril de 2009 · Estadio Hernando Siles</div>
+
+# Bolivia <span class="golpe">6</span><br>Argentina 1 ⚽
+
+<div class="lead">El técnico de Argentina era… <strong>Maradona</strong> 😮‍💨</div>
+
+<!--
+Restan: ~2:05 (25s)
+
+- Mirar al profe: "perdón, profe… es un dato histórico" (guiño rioplatense).
+- Maradona: "cada gol de Bolivia fue un puñal en mi corazón".
+- En 2007 la FIFA quiso prohibir partidos en la altura… y Bolivia ganó la pelea (2008).
 -->
 
 ---

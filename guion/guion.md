@@ -65,23 +65,23 @@
 
 ---
 
-### 7 · 6 a 1 — Restan: ~2:35 (25s)
-> La altura también juega al fútbol. *(mirar al profe)* Perdón, profe, pero es historia:
-> en **2009**, en este estadio, **Bolivia le ganó 6 a 1 a Argentina**.
-> ¿Y saben quién era el técnico argentino? **Maradona**.
-> Él dijo: "cada gol de Bolivia fue un puñal en mi corazón".
-
-🔊 *técnico → "ték-ni-ko"* · *puñal → "pu-ñál"* · *estadio → "es-tá-dio"*
-
----
-
-### 8 · Teleférico — Restan: ~2:10 (30s)
+### 7 · Teleférico — Restan: ~2:35 (30s)
 > ¿Y cómo se mueve la gente en una ciudad llena de subidas?
 > **¡Por el cielo!** La Paz tiene un **teleférico** que funciona como un metro:
 > **diez líneas**, más de **treinta kilómetros**, cada línea de un color.
 > Es la red de teleférico urbano **más grande del mundo**.
 
 🔊 *teleférico → "te-le-fé-ri-ko"* · *líneas → "lí-ne-as"* · *subidas → "su-bí-das"*
+
+---
+
+### 8 · 6 a 1 — Restan: ~2:05 (25s)
+> Y la altura… ¡también juega al fútbol! *(mirar al profe)* Perdón, profe, pero es historia:
+> en **2009**, en este estadio, **Bolivia le ganó 6 a 1 a Argentina**.
+> ¿Y saben quién era el técnico argentino? **Maradona**.
+> Él dijo: "cada gol de Bolivia fue un puñal en mi corazón".
+
+🔊 *técnico → "ték-ni-ko"* · *puñal → "pu-ñál"* · *estadio → "es-tá-dio"*
 
 ---
 

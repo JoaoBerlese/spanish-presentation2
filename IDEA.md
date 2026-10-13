@@ -46,8 +46,9 @@ metrô, zebras que organizam o trânsito e uma cultura aimará muito viva.
 6. Altura — mais de 3.600 m; *soroche* e *mate de coca*.
 
 **Acto 2 — Vivir allá arriba**
-7. "6 a 1" — Bolívia × Argentina de Maradona (2009) e o veto da FIFA (2007).
-8. Teleférico — "el metro… ¡en el cielo!": 10 linhas, a maior rede urbana do mundo.
+7. Teleférico — "el metro… ¡en el cielo!": 10 linhas, a maior rede urbana do mundo.
+   (vem antes do futebol: é infraestrutura, e as curiosidades ficam juntas no fim)
+8. "6 a 1" — Bolívia × Argentina de Maradona (2009) e o veto da FIFA (2007).
 9. Las cebras — jovens vestidos de zebra educam o trânsito desde 2001.
 
 **Acto 3 — La Paz mágica**
@@ -56,9 +57,9 @@ metrô, zebras que organizam o trânsito e uma cultura aimará muito viva.
 12. Encerramento — "¿Te animás a subir a 3.600 metros?" + ¡Gracias!
 
 ### Ponderação (se passar de 5:00 no ensaio)
-Núcleo fixo: 1, 2–3, 4 (datos), 6, 8, 10, 12. Cortar nesta ordem:
-**5 (1548)** → **7 (6 a 1)** vira uma frase no slide 6 → **11 (Brujas)** funde com
-o 10 (cholitas, "La Paz mágica") → **9 (cebras)** vira uma frase no slide 8.
+Núcleo fixo: 1, 2–3, 4 (datos), 6, 7, 10, 12. Cortar nesta ordem:
+**5 (1548)** → **8 (6 a 1)** vira uma frase no slide 6 → **11 (Brujas)** funde com
+o 10 (cholitas, "La Paz mágica") → **9 (cebras)** vira uma frase no slide 7.
 
 ### Reserva (fora do deck)
 Alasita (o Ekeko e os desejos em miniatura; UNESCO 2017 — saiu do deck para
